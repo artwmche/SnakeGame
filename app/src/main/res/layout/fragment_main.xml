@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.map524s1a.snakegame.MainActivityFragment">
+
+    <com.map524s1a.snakegame.SnakeView
+        android:id="@+id/snakeView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </com.map524s1a.snakegame.SnakeView>
+</FrameLayout>
